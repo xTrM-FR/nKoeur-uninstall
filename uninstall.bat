@@ -10,7 +10,7 @@ taskkill /F /IM wscript.exe
 :: (qui s'arretera tout seul)
 start uninstallHelper.vbs
 
-:: Stop les instances Batch
+:: Stop les instances Batch (dont celui-ci)
 taskkill /F /IM cmd.exe 
 
 exit
