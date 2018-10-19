@@ -14,6 +14,5 @@ Assurez vous que l'arboréscence des fichiers soit la même que celle-ci:
 votre-dossier-nKoeur-uninstall/  
 ├── uninstall/  
 │   ├── uninstaller.bat  
-│   ├── uninstallHelper.bat  
 │   └── uninstallHelper.vbs  
 └── uninstall.bat  
